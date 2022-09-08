@@ -1,1 +1,4 @@
-All Important information
+ Working principle
+
+ In this project, MAX30102 sensors will measure the heart rate, oxygen level, and MLX90614  measure temperature of the patient and Room. Continuously measured data will be monitored on LCD by the doctor and medical staff and Data will be upload in cloud using IOT, It can be accessible for hospital staff and doctors any place. For the normal condition the heart rate should be between 60 to 100 bpm, Body temperature should be 36.5°C to 38.5°C, Spo2 level should be about 95%. If the parameters will be out of this range there will be an emergency condition. When the emergency condition will occur the red led will turn on, Green light will off, and the buzzer will ring continuously. 
+

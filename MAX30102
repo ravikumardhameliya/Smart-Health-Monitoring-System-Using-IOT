@@ -1,9 +1,5 @@
-
 import max30102
 import hrcalc
-import matplotlib.pyplot as plt
-import numpy as np
-
 
 m = max30102.MAX30102()
 
